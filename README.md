@@ -1,4 +1,4 @@
-### Hi , I'm Cong Thanh 🤔✨ 
+### Hi , I'm Cong Thanh :wave::wave::wave: 
 ### About me
 - 🏫 I am a third-year student at National Economics University.
 - 🧑‍💻 I love using Software as a solution for every Problem
