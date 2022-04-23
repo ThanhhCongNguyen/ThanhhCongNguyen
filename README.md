@@ -3,7 +3,6 @@
 - 🏫 I am a third-year student at National Economics University.
 - 🧑‍💻 I love using Software as a solution for every Problem
 - 🧑‍🎓 I’m currently learning: Computer Science.
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is MY RESUME.
 - 🤓 Always learning new things
  
 
