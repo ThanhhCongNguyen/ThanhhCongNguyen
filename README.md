@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi , I'm Cong Thanh 🤔✨ 
+### About me
+- 🏫 I am a third-year student at National Economics University.
+- 🧑‍💻 I love using Software as a solution for every Problem
+- 💻 I am a competitive programmer mainly at Codeforces
+- 🧑‍🎓 I’m currently learning: Computer Science.
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is MY RESUME.
+- 🤓 Always learning new things
+ 
 
 <!--
 **ThanhhCongNguyen/ThanhhCongNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
