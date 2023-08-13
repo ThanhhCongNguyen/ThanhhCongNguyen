@@ -1,6 +1,7 @@
 ### Hi , I'm Cong Thanh :wave::wave::wave: 
 ### About me
-- 🏫 I am a junior student at National Economics University.
+- 🏫 I'm a Android developer with 1 year of experience in Mobile development.
+      With my knowledge of UI/UX design, I enjoy solving front-end problems and creating the best user experience for user.
 - 🧑‍💻 I love using Software as a solution for every Problem
 - 🧑‍🎓 I’m currently learning: Computer Science.
 - 🤓 Always learning new things
