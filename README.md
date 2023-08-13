@@ -3,7 +3,7 @@
 - 🏫 I'm a Android developer with 1 year of experience in Mobile development.
       With my knowledge of UI/UX design, I enjoy solving front-end problems and creating the best user experience for user.
 - 🧑‍💻 I love using Software as a solution for every Problem
-- 🧑‍🎓 I’m currently learning: Computer Science.
+- 🧑‍🎓 I have graduated with a degree in Computer Science from the National Economics University.
 - 🤓 Always learning new things
  
 
